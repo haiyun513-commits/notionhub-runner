@@ -8,3 +8,6 @@
 - 免费开源 workflow 运行时不请求 NotionHub Worker。
 - 支持媒体的服务会在同一次 workflow 中先同步数据，再下载上传图片和大文件。
 - workflow 由 NotionHub 自动更新，手动修改可能会在下次同步时被覆盖。
+
+
+<!-- Security scan triggered at 2026-10-07 11:01:08 -->
